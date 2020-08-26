@@ -1,0 +1,8 @@
+上传文件：
+git remote add origin https://github.com/VRTianyi/Smarthome.git
+git add .
+git commit . -m '描述内容随便写'
+git push 
+git status -sb
+
+
